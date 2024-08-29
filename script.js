@@ -4,4 +4,3 @@ alert("John Mark Doe");
 	
 }
 
- alert("John Doe");
