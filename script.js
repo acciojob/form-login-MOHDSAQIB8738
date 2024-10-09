@@ -1,6 +1,7 @@
 function getFormvalue() {
     //Write your code here
-alert("John Mark Doe");
+alert("John Mar Doe");
+	alert("John Doe")
 	
 }
 
